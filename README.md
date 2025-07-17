@@ -1,8 +1,14 @@
 # 👋 Hi there, I'm Ramindu Rantharu!
 
-I'm a passionate software developer with a strong background in full-stack development, cloud services, and UI/UX design. I love building scalable systems, intuitive interfaces, and solving real-world problems with clean, efficient code.
+I'm a passionate software engineering undergraduate with solid academic and project-based experience in full-stack development, cloud services, and UI/UX design. I love building scalable systems, intuitive interfaces, and solving real-world problems with clean, efficient code.
 
-Currently, I’m expanding my skills across various modern frameworks and cloud platforms while creating innovative solutions and contributing to open-source.
+---
+
+## 🎓 Education
+
+- 📚 **BSc (Hons) Software Engineering** *(Undergraduate)*
+- 🎓 *Cardiff Metropolitan University*
+- 👨‍💻 I’m currently pursuing my degree in Software Engineering, gaining hands-on experience with modern frameworks, cloud platforms, and real-world projects as part of my academic and personal learning journey.
 
 ---
 
